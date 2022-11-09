@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="sourceresistorcolor">
+    <file>4 band resistor.jpg</file>
+  </qresource>
+  <qresource prefix="Preliminary2fig10">
+    <file>Preliminary2_figure10.png</file>
+  </qresource>
+  <qresource prefix="bandcolor5">
+    <file>Five-Band-Resistor-Color-Code.jpg</file>
+  </qresource>
+  <qresource prefix="4bandtable">
+    <file>Resistor_4_band_Table.png</file>
+  </qresource>
+</RCC>
